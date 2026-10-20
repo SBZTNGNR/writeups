@@ -148,7 +148,8 @@ Tal y como dice la "nota" (**"note": "Use these credentials to SSH into the box.
 ![08](images/08.png)
 
 Listamos los archivos de la carpeta **/home/sys-admin** a ver que obtenemos, encontrando  la flag de usuario:
-![09](images/09.png)![[Pasted image 20261018114705.png|700]]
+![09](images/09.png)
+![10](images/10.png)
 
 ### User Flag:
 ```bash
