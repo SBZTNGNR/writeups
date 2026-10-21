@@ -154,7 +154,7 @@ stty raw -echo; fg
 export TERM=xterm-256color; export SHELL=bash; stty rows 44 cols 180
 ```
 
-![[Pasted image 20261020234710.png|700]]
+![4](images/4.png)
 
 - **Flag obtenida:** `FLAG{5up3rh3r0_Pwn3d_By_V5ftpd_B4ckd00r}`
 - **Privilegios:** `root`.
