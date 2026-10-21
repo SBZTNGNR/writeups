@@ -134,6 +134,7 @@ FLAG{5up3rh3r0_Pwn3d_By_V5ftpd_B4ckd00r}
 ## 3.3 (Opción 2) Ejecución Mediante Terminal (Shell)
 
 Otra manera más sencilla de explotar la vulnerabilidad en **vsftpd 2.3.4** (registrada como **CVE-2011-2523**) es mediante la terminal de Linux simplemente conectandose al servidor ftp con el usuario: **usuario:)** (o cualquiera, mientras termine con **:)**) y password: **cualquiercosa**
+
 ![3](images/3.png)
 
 Ahora, no es que la ejecución en si se haya quedado colgada si no que activo el backdoor de esta vulnerabilidad en el puerto 6200/tcp, por tanto solo basta con conectarnos al puerto escucha mediante:
@@ -154,6 +155,9 @@ export TERM=xterm-256color; export SHELL=bash; stty rows 44 cols 180
 ```
 
 ![[Pasted image 20261020234710.png|700]]
+
+- **Flag obtenida:** `FLAG{5up3rh3r0_Pwn3d_By_V5ftpd_B4ckd00r}`
+- **Privilegios:** `root`.
 
 Laboratorio realizado con éxito:
 ![5](images/5.png)
