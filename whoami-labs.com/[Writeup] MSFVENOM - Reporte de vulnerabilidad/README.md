@@ -1,18 +1,8 @@
-<h1 align="center">[Writeup] MSFVENOM - Reporte de Vulnerabilidad</h1>
 **Fecha:** 18 de Mayo, 2026
 
 **Severidad:** Crítica 🔴
 
 **Objetivo:** `172.17.0.2`
-
-**Plataforma**: WhoAmI-Labs.com
-
----
-
-# Descripción
-"Laboratorio pedagógico de Concept & Beginner (Nivel Easy). Diseñado para auditar vectores prácticos en entornos reales. El reto involucra técnicas de: Msfvenom, requiriendo obtener acceso inicial y comprometer el sistema."
-
----
 
 **Vulnerabilidad Identificada:** Ejecución Remota de Código (RCE) mediante la configuración por defecto de Java RMI Registry.
 ![1](images/1.png)
@@ -75,7 +65,8 @@ usar el comando "shell" para ejecutar comandos nativos de Linux
 
 
 ![4](images/4.png)
---
+
+---
 
 ## 3. Post-Explotación y Evidencia (PoC)
 
@@ -87,8 +78,8 @@ cat /root/flag.txt
 
 **Flag Obtenida:** `JAVA{rm1_d3s3r14l1z4t10n_rce_3xpl01t}`
 
-![5](images/5.png)
-![6](images/6.png)
+---
+
 ## 4. Mitigación y Remediación (Defensa)
 
 Para solucionar de manera definitiva esta vulnerabilidad en entornos Java RMI, se deben aplicar las siguientes contramedidas:
