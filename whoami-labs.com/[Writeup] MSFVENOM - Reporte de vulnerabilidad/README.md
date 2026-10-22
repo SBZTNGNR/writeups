@@ -2,7 +2,13 @@
 
 **Severidad:** Crítica 🔴
 
+**Autor**: SBZTNGNR
+
 **Objetivo:** `172.17.0.2`
+
+**Plataforma**: WhoAmI-Labs.com
+
+---
 
 **Vulnerabilidad Identificada:** Ejecución Remota de Código (RCE) mediante la configuración por defecto de Java RMI Registry.
 ![1](images/1.png)
