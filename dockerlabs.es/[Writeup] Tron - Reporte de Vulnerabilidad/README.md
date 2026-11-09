@@ -149,7 +149,7 @@ te hacke no eres root «La única forma de ganar el juego es no jugar»
 
 "login_flynn" al colocar el usuario y contraseña
 ```text
-quorre:quorre
+quorra:quorra
 ```
 
 Te daba una bandera:
