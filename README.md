@@ -33,7 +33,7 @@
 |  #  | Writeup                                                                                                                                                                     | Categoría                               |
 | :-: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | 1.  | [Asturias](https://github.com/SBZTNGNR/writeups/tree/363f1ed05dbd008f3c6430ac9143ef4a236fdb7c/dockerlabs.es/%5BWriteup%5D%20Asturias%20-%20Reporte%20de%20Vulnerabilidad)   | Broken Access Control / File Upload RCE |
-| 2.  | [Tron](https://github.com/SBZTNGNR/writeups/blob/570870dd51753372675a6fb70f9aff767a0670ad/dockerlabs.es/%5BWriteup%5D%20Tron%20-%20Reporte%20de%20Vulnerabilidad/README.md) | Esteganografía/SSH Brute Force          |
+| 2.  | [Tron](https://github.com/SBZTNGNR/writeups/blob/570870dd51753372675a6fb70f9aff767a0670ad/dockerlabs.es/%5BWriteup%5D%20Tron%20-%20Reporte%20de%20Vulnerabilidad/README.md) | SSH Brute Force/SUDO Misconfig         |
 
 ---
 
