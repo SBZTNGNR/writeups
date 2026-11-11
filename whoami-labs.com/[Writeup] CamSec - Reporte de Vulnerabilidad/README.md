@@ -515,7 +515,7 @@ cat flag.txt
 Whoami{camsec_arm32_firmware_r00t_2026}
 root@whoami-camsec-iot:~# 
 ```
-![[Pasted image 20261110232720.png|700]]
+![10](images/10.png)
 
 ---
 
